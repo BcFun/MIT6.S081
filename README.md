@@ -6,3 +6,5 @@
 
 [课程评价](https://conanhujinming.github.io/comments-for-awesome-courses/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA/)
 
+[xv6翻译](https://github.com/pleasewhy/xv6-book-2020-Chinese)
+
